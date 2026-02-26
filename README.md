@@ -1,4 +1,4 @@
-# Financial Document Analyzer (CrewAI) — Debug Challenge Submission
+# Financial Document Analyzer (CrewAI)
 
 ## 📌 Overview
 
